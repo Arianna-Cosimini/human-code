@@ -1,0 +1,93 @@
+Preparare lasagne alla Bolognese
+
+Preparazione sugo
+    -procurare gli ingredienti
+   
+    ?abbiamo gli ingredienti
+      -prendiamo la pentola
+    :ALTRIMENTI
+      -procuriamo gli ingredienti
+    
+    -Mettiamo all'interno della pentola gli odori      
+      con un pò di olio
+      
+    -Facciamo soffriggere
+     
+    ?Il soffritto é pronto
+     - mettiamo il macinato nella pentola insieme agli odori    
+    :ALTRIMENTI
+     -continuiamo a far soffriggere gli odori
+   
+    -facciamo cuocere il macinato insieme agli odori
+
+    ?il sugo é diventato scuro
+     -aggiungiamo il sugo di pomodoro
+    :ALTRIMENTI
+     -continuiamo a farlo cuocere finchè non diventa scuro
+   
+    -facciamo bollire il sugo
+    -solleviamo il coperchio per controllare che sia pronto
+   
+    ?il sugo è pronto
+     -spengiamo il sugo   
+    :ALTRIMENTI
+     -facciamo bollire ancora il sugo
+     
+     
+Preparazione besciamella
+    -mattiamo il latte in una pentola
+    -facciamo bollire il latte
+
+    ?il latte bolle
+     -spengiamo il fuoco
+    :ALTRIMENTI
+     -continuiamo a far bollire il latte 
+        
+    -mattiamo il burro in una pentola piccola
+    -facciamo sciogliere il burro
+      
+    ?il burro è sciolto
+     -aggiungiamo la farina
+    :ALTRIMENTI
+     -aspettiamo che il burro si sciolga
+         
+    -mescoliamo burro e farina e facciamo cuocere 
+       
+    ?gli ingredienti sono abbronzati
+     -aggiungere il burro con la farina al latte caldo
+    :ALTRIMENTI
+     -continuiamo a mescolare burro e farina e far cuocere
+        
+    -far cuocere tutti gli ingredienti insieme
+       
+    ?si sono addensati
+     -spengere il fuoco  
+    :ALTRIMENTI
+     -continuare a far cuocere gli ingredienti
+          
+  Assemblaggio lasagne
+        
+    -controlliamo che gli ingredienti siamo pronti
+        
+    ?il sugo e la besciamella sono pronti
+     -all’interno di una teglia mettiamo due mestoli di ragù e due di besciamella
+    :ALTRIMENTI
+     -aspettare vhe gli ingredienti siamo pronti
+           
+    -spargiamo su tutta la teglia il contenuto appena versato
+    -mettiamo uno strato di pasta per lasagne 
+           
+           
+    ?la teglia é piena
+     -aggiungiamo del parmigiano
+    :ALTRIMENTI
+     -continuiamo ad aggiungere due mestoli di ragù e due di besciamella
+             
+    -mattiamo in forno a 180°
+            
+    ?le lasagne sono pronte 
+     -la cottura è finita
+    :ALTRIMENTI
+     -continuiamo a farle cuocere a 180°
+
+     
